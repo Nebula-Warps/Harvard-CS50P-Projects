@@ -1,6 +1,3 @@
-# Harvard-CS50P-Projects
-My complete problem sets and finale project from Harvard's CS50P (Introduction to Programming with Python).
-
 # Harvard CS50P: Introduction to Programming with Python
 
 This repository contains all my problem sets, labs, and the final project completed during Harvard University's CS50P course. 
